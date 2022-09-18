@@ -157,9 +157,3 @@ If you just want to take the code and change it be aware that I didn't use the o
     board = uno
 
 The `env_default = uno` specifies for which board Platform IO builds the code, in this case is Arduino Uno. Make sure you have the right one here otherwise the code won't work.  
-Let me also make you aware that I'm not C++ guy and I found it pretty hard to learn so the code is probably all messy but working.
-
-If you also want to build the scoreboard case check the [Tinkercad page](https://www.tinkercad.com/things/gNmK0jQ22qv). I tried to make it in 1:5 scale but again it was my first experience with 3D software. The [shield](https://www.tinkercad.com/things/9Don7XhJEvx) is there only for measurement purpose. I just wanted to see to what size all the LED strips will fit and how it will look like. Based on the size I designed the [case](https://www.tinkercad.com/things/gNmK0jQ22qv).  
-In terms of material use whatever will fit you. My original plan was using plastic because I didn't want to make it heavy but still not too fragile. For the first version I ended up with a 5mm wood board you can buy in hobby markets asked a joiner to cut the board into pieces and let him actually figure out how to put it all together, it cost me just ~$10 then you just need to a drill and couple screws and put it all together
-
-To be continued
